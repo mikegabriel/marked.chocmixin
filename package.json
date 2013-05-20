@@ -1,0 +1,16 @@
+{
+  "name": "marked",
+  "version": "1.0.0",
+  "description": "Preview the open file in Marked",
+  "main": "init.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikegabriel/marked.chocmixin.git"
+  },
+  "keywords": [
+    "marked",
+    "markdown"
+  ],
+  "author": "Mike Gabriel",
+  "license": "WTFPL2"
+}
