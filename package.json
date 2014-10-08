@@ -1,7 +1,7 @@
 {
   "name": "marked",
-  "version": "1.0.0",
-  "description": "Preview the open file in Marked",
+  "version": "1.0.1",
+  "description": "Preview the open file in Marked 2",
   "main": "init.js",
   "repository": {
     "type": "git",
@@ -9,6 +9,7 @@
   },
   "keywords": [
     "marked",
+    "marked2",
     "markdown"
   ],
   "author": "Mike Gabriel",
